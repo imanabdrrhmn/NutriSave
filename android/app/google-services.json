@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125430172324",
+    "project_id": "nutrisave-95aaf",
+    "storage_bucket": "nutrisave-95aaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125430172324:android:eb47f221752719e3faf431",
+        "android_client_info": {
+          "package_name": "com.tekmob.nutrisave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125430172324-c6889k2kme4no3ui9ag73bhohpio00em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNgUSGeDvw17X8NC6IMq_RuMlbP3uL20I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125430172324-c6889k2kme4no3ui9ag73bhohpio00em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
